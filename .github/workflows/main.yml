@@ -24,7 +24,7 @@ jobs:
           # Options
           user: Seylumva
           template: classic
-          base: ""
+          base: header
           config_timezone: America/New_York
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          plugin_isocalendar_duration: half-year
