@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm Emilio.
+## I'm Emilio
 
 ### 🛠 &nbsp;Tech Stack
 
