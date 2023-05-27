@@ -12,7 +12,7 @@
   ![tRPC](https://img.shields.io/badge/-tRPC-333333?style=flat&logo=trpc&logoColor=398ccb)
 - ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=3c7aaa)
-  ![Prisma]https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma&logoColor=ffffff
+  ![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma&logoColor=ffffff)
 - ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
